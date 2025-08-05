@@ -20,8 +20,7 @@
 
 const char* ssid = "Vishnu";
 const char* password = "vishnu@vishnu";
-const char* presigned_url = "https://audio1624.s3.amazonaws.com/audio_file_1740134824844.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW3MD6NM2UL3D3767%2F20250221%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250221T104704Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=338bf35ed6f6d7b579e38d10a2fb7d7e1503a08604c4da88a1e3f6597def5202";
-
+const char* presigned_url = "";
 #define GITHUB_USER "vishnukechem"
 #define GITHUB_REPO "esp32_ota"
 #define CURRENT_VERSION "v1.4"
